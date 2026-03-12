@@ -35,7 +35,7 @@ O cenário propõe um ecossistema de e-commerce completo. Além da estrutura bá
 
 O projeto conta com queries complexas que respondem a perguntas essenciais para a gestão do E-commerce:
 
-1.  **Ticket Médio**: Identifica o valor total gasto por cliente.
+1.  **Gasto total**: Identifica o valor total gasto por cliente.
 2.  **Gestão de Estoque**: Relaciona produtos, fornecedores e estoques por localidade.
 3.  **Conflito de Interesse**: Verifica se algum Vendedor também atua como Fornecedor.
 4.  **Status de Logística**: Filtra pedidos que já possuem código de rastreio mas ainda estão em trânsito.
