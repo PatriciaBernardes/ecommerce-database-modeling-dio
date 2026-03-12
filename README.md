@@ -19,7 +19,7 @@ O cenário propõe um ecossistema de e-commerce completo. Além da estrutura bá
 ## 📐 Modelo EER
 
 
-![Modelo EER](./banco_dados.png)
+![Modelo EER](./imagem/banco_dados.jpg)
 
 ---
 
